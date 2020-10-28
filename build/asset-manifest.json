@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5daf1aa5.chunk.css",
+    "main.js": "/static/js/main.9adbab2c.chunk.js",
+    "main.js.map": "/static/js/main.9adbab2c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e7921b89.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e7921b89.js.map",
+    "static/js/2.e44fa14c.chunk.js": "/static/js/2.e44fa14c.chunk.js",
+    "static/js/2.e44fa14c.chunk.js.map": "/static/js/2.e44fa14c.chunk.js.map",
+    "static/js/3.e2276942.chunk.js": "/static/js/3.e2276942.chunk.js",
+    "static/js/3.e2276942.chunk.js.map": "/static/js/3.e2276942.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5daf1aa5.chunk.css.map": "/static/css/main.5daf1aa5.chunk.css.map",
+    "static/js/2.e44fa14c.chunk.js.LICENSE.txt": "/static/js/2.e44fa14c.chunk.js.LICENSE.txt",
+    "static/js/3.e2276942.chunk.js.LICENSE.txt": "/static/js/3.e2276942.chunk.js.LICENSE.txt",
+    "static/media/537061__imafoley__message-pop-sound.6c808b35.wav": "/static/media/537061__imafoley__message-pop-sound.6c808b35.wav",
+    "static/media/Join.css": "/static/media/L_back.6290ae09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7921b89.js",
+    "static/js/2.e44fa14c.chunk.js",
+    "static/css/main.5daf1aa5.chunk.css",
+    "static/js/main.9adbab2c.chunk.js"
+  ]
+}
