@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import useSound from 'use-sound';
 import mp3File from './537061__imafoley__message-pop-sound.wav';
-import welcomeUser from './new_user_sound.mp3';
 import queryString from 'query-string';
 import io from 'socket.io-client';
 
@@ -16,7 +15,7 @@ const ENDPOINT = 'https://vaarta.herokuapp.com/';
 let socket;
 
 const Chat = ({location}) => {
-    const [play, setPlay] = useSound(mp3File);
+    const [play] = useSound(mp3File);
     const [name, setName] = useState('');
     const [room, setRoom] = useState('');
     const [users, setUsers] = useState('');
